@@ -1,2 +1,2 @@
 # coder
-ulaşabildiğim dataları kendinizin işlemesi şartıyla burada paylaşıyorum
+data mining için buradayım!
